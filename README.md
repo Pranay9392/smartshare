@@ -14,11 +14,4 @@ Smart Share is a social note-sharing platform designed specifically for students
 - **Direct Messaging:** Connect with other users through direct messaging to discuss notes or study topics privately.
 - **Responsive Design:** Enjoy a seamless experience on both desktop and mobile devices.
 
-## Technologies Used
-
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT) for secure user authentication
-- **File Storage:** AWS S3 for storing shared notes and documents
 
